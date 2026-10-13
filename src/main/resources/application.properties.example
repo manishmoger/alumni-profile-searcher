@@ -1,0 +1,9 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/alumni_db
+spring.datasource.username=postgres
+spring.datasource.password=12345
+spring.jpa.hibernate.ddl-auto=update
+spring.jpa.show-sql=true
+
+phantombuster.api.key=Z9KdgUFQsbVTdQgBbCKgvmGlj51mFR8piyO8cnUJERc
+phantombuster.agent.id=5413485633316269
+phantombuster.base.url=https://api.phantombuster.com/api/v2
